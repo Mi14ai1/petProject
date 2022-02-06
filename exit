@@ -1,0 +1,177 @@
+[33mcommit 060fc4bb010f89d57779c0ad0f8d02f9e6d29c40[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 09:16:00 2021 +0300
+
+    firefox
+
+[33mcommit 06549dae40055140345d4401acd9de1697dfdf51[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 05:07:14 2021 +0300
+
+    Кодгайд
+
+[33mcommit 6bb09ef61ce0793d36d114dde7fc429cc0d30cad[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 04:56:55 2021 +0300
+
+    changes
+
+[33mcommit b952e167bbcf5376e392c38effc2eecfbf4f54c1[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 04:24:25 2021 +0300
+
+    теперь точно все
+
+[33mcommit 88f8393e3494cbdfba85961df1134b637908a9ab[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 04:15:56 2021 +0300
+
+    автоформатирование зло
+
+[33mcommit 5b730566f226eb140aa60399559e221db7c54519[m
+Author: m14ai1 <m14ai1@yandex.ru>
+Date:   Thu Nov 11 04:02:54 2021 +0300
+
+    Исправления после первой проверки
+
+[33mcommit 632aee4d36a37054ec792d97bbe5b766aec9867a[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Mon Nov 8 07:33:00 2021 +0300
+
+    косяк
+
+[33mcommit be637e39da9383ab2ed453210c0527a962bea5dc[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Mon Nov 8 07:24:58 2021 +0300
+
+    К защите
+
+[33mcommit 4af7e69dd8f3f8670a6fa390bf6555afe36fe833[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Sun Nov 7 23:02:47 2021 +0300
+
+    Дз 9.15
+
+[33mcommit 43c077d0141daa2a83babc779222931ed46ad504[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Fri Nov 5 02:46:50 2021 +0300
+
+    Дз 9.15
+
+[33mcommit 3a37a231865a32e8e652a678f6b9fdf63df760f3[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Wed Nov 3 20:00:42 2021 +0300
+
+    Дз 8.12
+
+[33mcommit 4f9c980bf2c132fbf4169da21af9c4b2db7168c1[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Sat Oct 30 22:21:10 2021 +0300
+
+    ДЗ 7.15
+
+[33mcommit f0a99f6e594a77296a3268319d354a6a2c01a0c4[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Thu Oct 28 14:30:15 2021 +0300
+
+    главная декор
+    
+    PP зло
+
+[33mcommit 2935d4361331b40f9e4fccdeb4907c89258f1be6[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Wed Oct 27 19:21:47 2021 +0300
+
+    Дз 7.14, 7.15
+
+[33mcommit a8af48777837f5bdf47a42aa28fc903297538f77[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Fri Oct 22 01:03:51 2021 +0300
+
+    Исправления
+
+[33mcommit 643bd66722d2bdbe053bb5fc737ba0b4c65d45d8[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Thu Oct 21 22:57:11 2021 +0300
+
+    Исправил микросетки
+    
+    Все остальное тоже)))
+
+[33mcommit 631594863a27eced746fc0939879982c3998cbd8[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Thu Oct 21 01:08:00 2021 +0300
+
+    ДЗ микросетки
+
+[33mcommit 08fd44db7d33cbdfb9d7d402034a9ad3be4ee421[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Sun Oct 17 17:38:05 2021 +0300
+
+    Тень и футер select
+
+[33mcommit 104d9ac07d2c00592b8fc925a346b44b6d40f764[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Sun Oct 17 14:44:41 2021 +0300
+
+    Сетки каталог
+
+[33mcommit 0488f512a0fe1745f634eeb68b61b382277f993f[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Fri Oct 15 21:56:05 2021 +0300
+
+    Для ДЗ по сеткам 4.12 и 5.8
+
+[33mcommit 6bfe6e7061fe9fc7c36bc0c88be4c9b7088d47df[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Sat Oct 9 12:39:59 2021 +0300
+
+    Первое задание по сеткам
+
+[33mcommit dbbe814b7b890e908989ddbcf62028913805e9df[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Tue Oct 5 19:05:37 2021 +0300
+
+    Внес исправления
+
+[33mcommit a45581d39948498a94692a5c5a40bd8e077e4519[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Mon Oct 4 00:22:29 2021 +0300
+
+    Вторая часть Базовой стилизации
+
+[33mcommit 1768405eae7cef1964a82064736822636e826dbd[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Fri Oct 1 23:02:37 2021 +0300
+
+    Первая часть из графики
+
+[33mcommit d5c3365ef008ddffe9418545e225ad3bf52a6a6b[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Wed Sep 29 21:58:39 2021 +0300
+
+    Внес исправления
+
+[33mcommit f52144c2b46c73ced2a871319862f969e9f012c6[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Tue Sep 28 21:22:58 2021 +0300
+
+    Сделал разметку каталога
+
+[33mcommit 61ce4acb78c9e8915e49045560eab0430e3c9ec6[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Tue Sep 28 10:36:11 2021 +0300
+
+    Update index.html
+
+[33mcommit 4d9b6a9d9a48ebcd08b0a41d461a74e41e1d12ff[m
+Author: Mi14ai1 <87413122+Mi14ai1@users.noreply.github.com>
+Date:   Mon Sep 20 22:08:56 2021 +0300
+
+    Update Readme.md
+
+[33mcommit 51573727df5e58d26dc7bd4583cc83358df6deb4[m
+Author: Keks <keks@htmlacademy.ru>
+Date:   Mon Sep 20 21:36:32 2021 +0300
+
+    :hatching_chick:
