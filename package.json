@@ -1,0 +1,19 @@
+{
+  "name": "petproject",
+  "version": "1.0.0",
+  "description": "* Студент: [Михаил Бутько](https://up.htmlacademy.ru/htmlcss/32/user/1840617). * Наставник: `Елена Асташина`.",
+  "main": ".index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mi14ai1/petProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mi14ai1/petProject/issues"
+  },
+  "homepage": "https://github.com/Mi14ai1/petProject#readme"
+}
