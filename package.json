@@ -1,0 +1,22 @@
+{
+  "name": "petproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mi14ai1/petProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mi14ai1/petProject/issues"
+  },
+  "homepage": "https://github.com/Mi14ai1/petProject#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
